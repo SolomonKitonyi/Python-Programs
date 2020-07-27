@@ -9,3 +9,4 @@ Created on Mon Jul 27 12:55:12 2020
 Name = raw_input("Enter your name in capital letter: ");
 namesmall = Name.lower();
 print "Your name in small letter is " + namesmall;
+print "Your name in capital letters is " + Name.upper();
